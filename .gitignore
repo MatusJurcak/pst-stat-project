@@ -1,0 +1,10 @@
+node_modules
+.ipynb_checkpoints
+storage
+venv
+.nvmrc
+.prettierrc
+eslint*
+package*
+*.ts
+*.txt
